@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|c:\\users\\admin\\desktop\\proyectos en git\\login\\loginapp\\loginapp\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|c:\\users\\admin\\desktop\\proyectos en git\\login\\loginapp\\loginapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|c:\\users\\admin\\desktop\\proyectos en git\\login\\loginapp\\loginapp\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|c:\\users\\admin\\desktop\\proyectos en git\\login\\loginapp\\loginapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|c:\\users\\admin\\desktop\\proyectos en git\\login\\loginapp\\loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|c:\\users\\admin\\desktop\\proyectos en git\\login\\loginapp\\loginapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232414EA-89C6-461B-94C4-3315D1C03DA1}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 45,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Program.cs",
-              "RelativeDocumentMoniker": "LoginApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Program.cs",
-              "RelativeToolTip": "LoginApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:36:55.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Views\\Acceso\\Login.cshtml",
-              "RelativeDocumentMoniker": "LoginApp\\Views\\Acceso\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Views\\Acceso\\Login.cshtml",
-              "RelativeToolTip": "LoginApp\\Views\\Acceso\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAKAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T18:04:26.605Z",
+              "WhenOpened": "2024-11-29T19:30:30.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Registrarse.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Views\\Acceso\\Registrarse.cshtml",
-              "RelativeDocumentMoniker": "LoginApp\\Views\\Acceso\\Registrarse.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Views\\Acceso\\Registrarse.cshtml",
-              "RelativeToolTip": "LoginApp\\Views\\Acceso\\Registrarse.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T18:01:30.854Z",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:26:26.446Z",
               "EditorCaption": ""
             },
             {
@@ -79,9 +66,22 @@
               "RelativeDocumentMoniker": "LoginApp\\Controllers\\AccesoController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Controllers\\AccesoController.cs",
               "RelativeToolTip": "LoginApp\\Controllers\\AccesoController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwA8AAAA0AAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T18:01:15.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos en Git\\Login\\LoginApp\\LoginApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T19:20:36.451Z",
               "EditorCaption": ""
             }
           ]
